@@ -16,3 +16,4 @@ layout: default
 
 ## Melt Ponding on Arctic Sea Ice
 ---
+<img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" ><br>
