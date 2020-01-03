@@ -19,7 +19,9 @@ layout: default
 
 ## Citizen Science GIS: Mapping Marine Debris and Mitigating Impacts on Coastal Communities
 ---
-<img src="https://drive.google.com/uc?export=view&id=1PEFVGBRJfLlERFH7nOdEBL3tMPfw7Epi" width = "45%" ><br>
+<img src="https://drive.google.com/uc?export=view&id=1PEFVGBRJfLlERFH7nOdEBL3tMPfw7Epi" width = "30%" >
+<img src="https://drive.google.com/uc?export=view&id=1Tla5P40cWRGqHK17ewPCi5KJCf5cpE78" width = "30%" >
+<img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" ><br>
 
 
 ## Melt Ponding on Arctic Sea Ice
