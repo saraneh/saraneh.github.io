@@ -4,7 +4,8 @@ layout: default
 
 ## Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast
 ---
-<a href="https://nesec-org.github.io/" target = "blank"><img src="https://drive.google.com/uc?export=view&id=165HZfMx3eIoZS2W0ydpnVGEHkYgCZqsV" width = "75%" ></a><br>
+<figure><a href="https://nesec-org.github.io/" target = "blank"><img src="https://drive.google.com/uc?export=view&id=165HZfMx3eIoZS2W0ydpnVGEHkYgCZqsV" width = "75%" ></a><figcaption>Click to go to webmap</figcaption></figure>
+  <br>
 
 
 ## Tools to Enhance Community-Driven Data Management Education
