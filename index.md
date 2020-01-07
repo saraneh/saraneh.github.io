@@ -8,7 +8,7 @@ layout: default
 
 
 
-<p align="center"><b><font color="seagreen">Tools to Enhance Community-Driven Data Management Education</font></b><br
+<p align="center"><b><font color="seagreen">Tools to Enhance Community-Driven Data Management Education</font></b><br>
 <b><font color="teal">DataONE- Summer 2019</font></b>
 <figure><a href="https://dataoneorg.github.io/Education/contribute" target = "blank"><img src="https://drive.google.com/uc?export=view&id=15tKaRbPqfX_HCnJkMls7ElY_mXab6XUk" width = "45%" ></a><figcaption>Click to go to website</figcaption></figure></p><br>
 
