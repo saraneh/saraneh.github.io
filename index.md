@@ -10,19 +10,19 @@ layout: default
 
 ## Tools to Enhance Community-Driven Data Management Education
 ---
-<a href="https://dataoneorg.github.io/Education/contribute" target = "blank"><img src="https://drive.google.com/uc?export=view&id=15tKaRbPqfX_HCnJkMls7ElY_mXab6XUk" width = "45%" ></a><br>
+<figure><a href="https://dataoneorg.github.io/Education/contribute" target = "blank"><img src="https://drive.google.com/uc?export=view&id=15tKaRbPqfX_HCnJkMls7ElY_mXab6XUk" width = "45%" ></a><figcaption>Click to go to website</figcaption></figure><br>
 
 
 ## Utilizing NASA/NOAA Joint OSTM and Modeled Wave Data to Assess Trends in Sea Surface Height in the U.S. Affiliated Pacific Islands
 ---
-<img src="https://drive.google.com/uc?export=view&id=1nip42v_p8xMI6bwWzXcep9Z9V5n2MSuj" width = "100%" ><br>
+<figure><img src="https://drive.google.com/uc?export=view&id=1nip42v_p8xMI6bwWzXcep9Z9V5n2MSuj" width = "100%" ><figcaption>Performed a  comparison of two sea surface height (SSH) satellite products. AVISO and OceanWatch data was validated using higher resolution NASA PODAAC JPL (ssh) data, with OceanWatch resulting in a slightly higher mean average error (MAE)</figcaption></figure><br>
 
 
 ## Citizen Science GIS: Mapping Marine Debris and Mitigating Impacts on Coastal Communities
 ---
-<img src="https://drive.google.com/uc?export=view&id=1Yr1CLk4gU5gzQuhPY4evuwZFkpuKKJdK" width = "30%" >
+<figure><img src="https://drive.google.com/uc?export=view&id=1Yr1CLk4gU5gzQuhPY4evuwZFkpuKKJdK" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Tla5P40cWRGqHK17ewPCi5KJCf5cpE78" width = "30%" >
-<img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" ><br>
+<img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" ><figcaption>We met with community members in person to execute IRB-approved surveys and map areas where respondents felt most attached to in their village. We also did a kernel density analysis on actual versus percieved presence of marine debris hot spots.</figcaption></figure><br>
 
 
 ## Melt Ponding on Arctic Sea Ice
