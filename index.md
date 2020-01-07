@@ -27,4 +27,4 @@ layout: default
 
 ## Melt Ponding on Arctic Sea Ice
 ---
-<img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" ><br>
+<figure><img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" ><figcaption>This figure shows how Arctic ice melt propogate during summer months, according to data from 2000 to 2011. "Open water fraction" refers to the proportion of an area which is open water.</figcaption></figure><br>
