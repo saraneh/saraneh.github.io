@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p align="center"><b><font color="Dark blue">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
+<p align="center"><b><font color="teal">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
 <b><font color="seagreen">Northeast States Emergency Consortium - Fall 2019</font></b>
 <figure><a href="http://nesec-org.github.io/" target = "blank"><img src="https://drive.google.com/uc?export=view&id=165HZfMx3eIoZS2W0ydpnVGEHkYgCZqsV" width = "75%" ></a><figcaption>Click to go to webmap</figcaption></figure></p><br>
 
