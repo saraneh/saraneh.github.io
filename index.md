@@ -21,7 +21,6 @@ layout: default
 
 ## Citizen Science GIS: Mapping Marine Debris and Mitigating Impacts on Coastal Communities
 #### NSF REU - Marine Debris team: Caleb Ball, Hannah Bonestroo, Ashley Letcher, Saraneh Fitzgerald
----
 <figure><img src="https://drive.google.com/uc?export=view&id=1Yr1CLk4gU5gzQuhPY4evuwZFkpuKKJdK" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Tla5P40cWRGqHK17ewPCi5KJCf5cpE78" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" ><figcaption>We met with community members in person to execute IRB-approved surveys and map areas where respondents felt most attached to in their village. We also did a kernel density analysis on actual versus percieved presence of marine debris hot spots.</figcaption></figure><br>
@@ -29,5 +28,4 @@ layout: default
 
 ## Melt Ponding on Arctic Sea Ice
 #### Undergraduate thesis at Clark University under Dr. Karen Frey
----
 <figure><img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" ><figcaption>This figure shows how Arctic ice melt propogates during summer months, according to data from 2000 to 2011. "Open water fraction" refers to ratio of sea-ice to water in a defined area.</figcaption></figure><br>
