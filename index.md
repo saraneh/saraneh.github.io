@@ -2,19 +2,18 @@
 layout: default
 ---
 
-<p align="center"><b><font color="teal">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
-<b><font color="seagreen">Northeast States Emergency Consortium - Fall 2019</font></b>
+<p align="center"><b><font color="seagreen">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
+<b><font color="teal">Northeast States Emergency Consortium - Fall 2019</font></b>
 <figure><a href="http://nesec-org.github.io/" target = "blank"><img src="https://drive.google.com/uc?export=view&id=165HZfMx3eIoZS2W0ydpnVGEHkYgCZqsV" width = "75%" ></a><figcaption>Click to go to webmap</figcaption></figure></p><br>
 
 
 
-## Tools to Enhance Community-Driven Data Management Education
-<p align="center"><b><font color="green">DataONE- Summer 2019</font></b>
+<p align="center"><b><font color="seagreen">Tools to Enhance Community-Driven Data Management Education</font></b><br
+<b><font color="teal">DataONE- Summer 2019</font></b>
 <figure><a href="https://dataoneorg.github.io/Education/contribute" target = "blank"><img src="https://drive.google.com/uc?export=view&id=15tKaRbPqfX_HCnJkMls7ElY_mXab6XUk" width = "45%" ></a><figcaption>Click to go to website</figcaption></figure></p><br>
 
-
-## Utilizing NASA/NOAA Joint OSTM and Modeled Wave Data to Assess Trends in Sea Surface Height in the U.S. Affiliated Pacific Islands
-<p align="center"><b><font color="green">NASA DEVELOP at NOAA NCEI- Pacific Oceans Team: India Young, Katie Walker, Alec Courtright, Saraneh Fitzgerald</font></b>
+<p align="center"><b><font color="seagreen">Utilizing NASA/NOAA Joint OSTM and Modeled Wave Data to Assess Trends in Sea Surface Height in the U.S. Affiliated Pacific Islands</font></b><br>
+<b><font color="teal">NASA DEVELOP at NOAA NCEI- Pacific Oceans Team: India Young, Katie Walker, Alec Courtright, Saraneh Fitzgerald</font></b>
 <figure><img src="https://drive.google.com/uc?export=view&id=1nip42v_p8xMI6bwWzXcep9Z9V5n2MSuj" width = "100%" ><figcaption>Performed a  comparison of two sea surface height (SSH) satellite products. AVISO and OceanWatch data was validated using higher resolution NASA PODAAC JPL (ssh) data, with OceanWatch resulting in a slightly higher mean average error (MAE)</figcaption></figure></p><br>
 
 
