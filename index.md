@@ -3,10 +3,10 @@ layout: default
 ---
 
 ## Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast
-#### Northeast States Emergency Consortium - Fall 2019
+-> #### Northeast States Emergency Consortium - Fall 2019 <-
 <figure><a href="https://nesec-org.github.io/" target = "blank"><img src="https://drive.google.com/uc?export=view&id=165HZfMx3eIoZS2W0ydpnVGEHkYgCZqsV" width = "75%" ></a><figcaption>Click to go to webmap</figcaption></figure><br>
-yup these are words bro
-thats true these are words
+-> yup these are words bro
+thats true these are words <-
 
 
 ## Tools to Enhance Community-Driven Data Management Education
