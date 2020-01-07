@@ -12,7 +12,7 @@ layout: default
   <i><font color="teal">DataONE- Summer 2019</font></i></p>
 <a href="https://dataoneorg.github.io/Education/contribute" target = "blank"><img src="https://drive.google.com/uc?export=view&id=15tKaRbPqfX_HCnJkMls7ElY_mXab6XUk" width = "45%" align = "left"></a>
 
-<p>Data management is becoming increasingly important to people who utilize earth science data. As part of their initiative to increase understanding of data management best practices, DataONE created the Data Management Skillbuilding Hub. "The hub" is a public, online, community-driven resource for educational materials on data management. My task as the community outreach intern was to increase public contributions by creating a step-by-step submission tutorial in the form of several webpages on the Skillbuilding Hub website.</p><br>
+<p>Data management is becoming increasingly important to people who utilize earth science data. As part of their initiative to increase understanding of data management best practices, DataONE created the Data Management Skillbuilding Hub. "The hub" is a public, online, community-driven resource for educational materials regarding data management. My task as the community outreach intern was to increase public contributions by creating a step-by-step submission tutorial in the form of several webpages on the Skillbuilding Hub website.</p><br>
 
 <p align="center"><b><font color="seagreen">Utilizing NASA/NOAA Joint OSTM and Modeled Wave Data to Assess Trends in Sea Surface Height in the U.S. Affiliated Pacific Islands</font></b><br>
 <i><font color="teal">NASA DEVELOP at NOAA NCEI- Pacific Oceans Team: India Young, Katie Walker, Alec Courtright, Saraneh Fitzgerald</font></i>
