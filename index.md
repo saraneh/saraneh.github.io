@@ -15,16 +15,16 @@ layout: default
 <p>Data management is becoming increasingly important to people who utilize earth science data. As part of their initiative to increase understanding of data management best practices, DataONE created the Data Management Skillbuilding Hub. "The hub" is a public, online, community-driven resource for educational materials regarding data management. My task as the community outreach intern was to increase public contributions by creating a step-by-step submission tutorial in the form of several webpages on the Skillbuilding Hub website.</p><br>
 
 <p align="center"><b><font color="seagreen">Utilizing NASA/NOAA Joint OSTM and Modeled Wave Data to Assess Trends in Sea Surface Height in the U.S. Affiliated Pacific Islands</font></b><br>
-<i><font color="teal">NASA DEVELOP at NOAA NCEI- Pacific Oceans Team: India Young, Katie Walker, Alec Courtright, Saraneh Fitzgerald</font></i>
-<img src="https://drive.google.com/uc?export=view&id=1nip42v_p8xMI6bwWzXcep9Z9V5n2MSuj" width = "100%" ></p><br>
+<i><font color="teal">NASA DEVELOP at NOAA NCEI- Pacific Oceans Team: India Young, Katie Walker, Alec Courtright, Saraneh Fitzgerald</font></p></i>
+<img src="https://drive.google.com/uc?export=view&id=1nip42v_p8xMI6bwWzXcep9Z9V5n2MSuj" width = "100%" ><br>
 
 <p align="center"><b><font color="seagreen">Citizen Science GIS: Mapping Marine Debris and Mitigating Impacts on Coastal Communities</font></b><br>
-<i><font color="teal">NSF REU - Marine Debris team: Caleb Ball, Hannah Bonestroo, Ashley Letcher, Saraneh Fitzgerald</font></i>
+<i><font color="teal">NSF REU - Marine Debris team: Caleb Ball, Hannah Bonestroo, Ashley Letcher, Saraneh Fitzgerald</font></i></p>
 <img src="https://drive.google.com/uc?export=view&id=1Yr1CLk4gU5gzQuhPY4evuwZFkpuKKJdK" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Tla5P40cWRGqHK17ewPCi5KJCf5cpE78" width = "30%" >
-<img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" ></p><br>
+<img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" ><br>
 
 
 <p align="center"><b><font color="seagreen">Melt Ponding on Arctic Sea Ice</font></b><br>
-<i><font color="teal">Undergraduate thesis at Clark University under Dr. Karen Frey</font></i>
-<img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" align = "left" style="margin:0px 10px"></p><br>
+<i><font color="teal">Undergraduate thesis at Clark University under Dr. Karen Frey</font></i></p>
+<img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" align = "left" style="margin:0px 10px"><br>
