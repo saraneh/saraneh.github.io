@@ -27,4 +27,4 @@ layout: default
 
 <p align="center"><b><font color="seagreen">Melt Ponding on Arctic Sea Ice</font></b><br>
 <i><font color="teal">Undergraduate thesis at Clark University under Dr. Karen Frey</font></i></p>
-<img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" align = "left" style="margin:0px 10px"><br>
+<img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" align = "left" style="margin:0px 10px"><br><br><br><br><br>
