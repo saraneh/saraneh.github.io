@@ -16,7 +16,8 @@ layout: default
 
 <p align="center"><b><font color="seagreen">Utilizing NASA/NOAA Joint OSTM and Modeled Wave Data to Assess Trends in Sea Surface Height in the U.S. Affiliated Pacific Islands</font></b><br>
 <i><font color="teal">NASA DEVELOP at NOAA NCEI- Pacific Oceans Team: India Young, Katie Walker, Alec Courtright, Saraneh Fitzgerald</font></i></p>
-<img src="https://drive.google.com/uc?export=view&id=1nip42v_p8xMI6bwWzXcep9Z9V5n2MSuj" width = "100%" ><br>
+<img src="https://drive.google.com/uc?export=view&id=1nip42v_p8xMI6bwWzXcep9Z9V5n2MSuj" width = "100%" >
+<p> With sea levels on the rise, low-lying countries such as the Marshall Islands (RMI) are facing serious challenges to their everyday lives. Our task as the Pacific Oceans Team was to create a climatology (30 years of data) specifically for the RMI for three oceanic components: 1) wave heights, 2) sea level anomalies, and 3) tides. From the climatology, we were able to determine recent trends in oceanic behavior and calculate risk percentiles for coastal inundation depending on the three oceanic factors. We handed over our coastal-inundation risk assessment tool in the form of a wave-rose atlas for our partners at the University of Hawaii Sea Level Center to aid their own work in the Marshall Islans.
 
 <p align="center"><b><font color="seagreen">Citizen Science GIS: Mapping Marine Debris and Mitigating Impacts on Coastal Communities</font></b><br>
 <i><font color="teal">NSF REU - Marine Debris team: Caleb Ball, Hannah Bonestroo, Ashley Letcher, Saraneh Fitzgerald</font></i></p>
