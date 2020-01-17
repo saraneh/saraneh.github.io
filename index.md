@@ -24,7 +24,8 @@ layout: default
 <img src="https://drive.google.com/uc?export=view&id=1Yr1CLk4gU5gzQuhPY4evuwZFkpuKKJdK" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Tla5P40cWRGqHK17ewPCi5KJCf5cpE78" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" ><br>
-
+<p>Hopkins, Belize is a small coastal village with hopes of growing into a hub for cultural tourism. Like many other Central American countries, the combination of tourism, climate change, and underdevelopment puts nations like Belize at risk for an unsustainable future. Our goal was to help Hopkins in their development by mapping village infrastructure and marine debris and making this data publicly available for their use. This meant that we had to create from scratch our own geodatabase in ArcGIS online, create our own research and sampling methodologies, use the Collector app for Arc to record presence and characteristics of marine debris on the coast, and finally, analyze the data we collected. A really unique and interesting part of this project was our foray into participatory mapping methods, where we surveyed Hopkins locals (with IRB approved surveys) and created maps which visualized public perception of marine debris versus actual presence of marine debris.
+</p>
 
 <p align="center"><b><font color="seagreen">Melt Ponding on Arctic Sea Ice</font></b><br>
 <i><font color="teal">Undergraduate thesis at Clark University under Dr. Karen Frey</font></i></p>
