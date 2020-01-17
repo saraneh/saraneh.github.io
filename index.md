@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 <p align="center"><b><font color="seagreen">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
