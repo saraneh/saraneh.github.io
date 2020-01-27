@@ -1,19 +1,8 @@
 ---
 layout: default
 ---
-<html>
- <head>
-  <style>
-   .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-  </style>
- </head>
-<body>
-<form style="display: inline;" target="_blank" class="center" action="/saraneh.github.io/resume.html" method="get">
+
+<form style="display: inline;" target="_blank" class="center" style="margin:25%" action="/saraneh.github.io/resume.html" method="get">
  <button style="font-size:100%;">See my resume</button></form>
 
 <p align="center"><b><font color="seagreen">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
@@ -47,5 +36,3 @@ layout: default
 <p align="center"><b><font color="seagreen">Melt Ponding on Arctic Sea Ice</font></b><br>
 <i><font color="teal">Undergraduate thesis at Clark University under Dr. Karen Frey</font></i></p>
 <img src="https://drive.google.com/uc?export=view&id=1aQDF3bHtNcXsQ5Bp1IwyRCoGzH4qGrxS" width = "45%" align = "left" style="margin:0px 10px">
-</body>
-</html>
