@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Saraneh Fitzgerald
 description: GIS analyst with a passion for coastal environmental research and open source data
+<form style="display: inline;" target="_blank"  action="/saraneh.github.io/resume.html" method="get">
+ <button style="font-size:150%;">See my resume</button></form>
 ---
 whats good
