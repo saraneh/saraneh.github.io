@@ -5,7 +5,7 @@ layout: default
 <p align="center"><b><font color="seagreen">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
 <i><font color="teal">Northeast States Emergency Consortium (NESEC)- Fall 2019</font></i></p>
 <img src="https://drive.google.com/uc?export=view&id=13OvBhgBolmmAEzThxWHe46i04ZLmJMYy" width = "50%" align = "left">
-<img src="https://drive.google.com/uc?export=view&id=1GRXflXZDHZZanCx1Xygll5JH-4yOGiey" width = "50%" align = "left"><br><br>
+<img src="https://drive.google.com/uc?export=view&id=1GRXflXZDHZZanCx1Xygll5JH-4yOGiey" width = "50%" align = "left"><br><br><br>
 <a href="http://nesec-org.github.io/" target = "blank"><img src="https://drive.google.com/uc?export=view&id=165HZfMx3eIoZS2W0ydpnVGEHkYgCZqsV" width = "75%" align = "right" style="margin:0px 10px"></a>
 
 <p>As it stands currently, the entire United States East Coast (USEC) remains unaccounted for in terms of knowing our risk for tsunami events. My job was to address this gap in tsunami research. I was funded by NOAA to map tsunami risk for the entire USEC in a project with the National Tsunami Hazard Mitigation Program, the University of Delaware, the University of Rhode Island, and NESEC. I determined that several counties in New York, New Jersey, Virginia, and Florida were the in the top 10 most at-risk counties. I also created an interactive web map which allows the user to weight the inputs to the risk metric depending on their personal preference. The webmap raises awareness of tsunami risk along the East Coast and provides an easy platform for all to download the data I created.</p><br>
