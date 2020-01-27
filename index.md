@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<form style="display: inline;" target="_blank"  action="/saraneh.github.io/resume.html" method="get">
- <button style="font-size:150%;">See my resume</button></form>
+<p align="center"><form style="display: inline;" target="_blank"  action="/saraneh.github.io/resume.html" method="get">
+ <button style="font-size:150%;">See my resume</button></form></p>
 
 <p align="center"><b><font color="seagreen">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
 <i><font color="teal">Northeast States Emergency Consortium (NESEC)- Fall 2019</font></i></p>
