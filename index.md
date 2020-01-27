@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<form style="display: inline;" target="_blank" style="margin:0% 45%" action="/saraneh.github.io/resume.html" method="get">
+<form style="display: inline;" target="_blank" style="margin:0% 43%" action="/saraneh.github.io/resume.html" method="get">
  <button style="font-size:100%;">See my resume</button></form>
 
 <p align="center"><b><font color="seagreen">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
