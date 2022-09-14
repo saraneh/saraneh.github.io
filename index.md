@@ -22,7 +22,7 @@ layout: default
 <p> With sea levels on the rise, low-lying countries such as the Marshall Islands (RMI) are facing serious challenges to their everyday lives. Our task as the Pacific Oceans Team was to create a climatology (30 years of data) specifically for the RMI for three oceanic components: 1) wave heights, 2) sea level anomalies, and 3) tides. From the climatology, we were able to determine recent trends in oceanic behavior and calculate risk percentiles for coastal inundation depending on the three oceanic factors. We handed over our coastal-inundation risk assessment tool in the form of a wave-rose atlas for our partners at the University of Hawaii Sea Level Center to aid their own work in the Marshall Islands. Our team also had partners at NOAA, for whom we were able to perform a preliminary accuracy assessment for their (then) recently launched satellite sea-level anomaly product, OCEANWATCH.</p><br>
 
 <p align="center"><b><font color="seagreen">Citizen Science GIS: Mapping Marine Debris and Mitigating Impacts on Coastal Communities</font></b><br>
-<i><font color="teal">NSF REU - Marine Debris team: Caleb Ball, Hannah Bonestroo, Ashley Letcher, Saraneh Fitzgerald</font></i></p>
+<i><font color="teal">NSF REU - Marine Debris team: Caleb Ball, Hannah Bonestroo, Saraneh Fitzgerald, Ashley Letcher</font></i></p>
 <img src="https://drive.google.com/uc?export=view&id=1Yr1CLk4gU5gzQuhPY4evuwZFkpuKKJdK" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Tla5P40cWRGqHK17ewPCi5KJCf5cpE78" width = "30%" >
 <img src="https://drive.google.com/uc?export=view&id=1Yc_4ka_tGu-LyuOfRL6J-QNrgTXxkva1" width = "30%" >
