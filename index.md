@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center"><b><font color="seagreen">Mapping Tsunami Inundation and Assessing Tsunami Risk for the U.S. East Coast</font></b><br>
-<i><font color="teal">Northeast States Emergency Consortium (NESEC)- Fall 2019</font></i></p>
+<i><font color="teal">Northeast States Emergency Consortium (NESEC)- 2019</font></i></p>
 <img src="https://drive.google.com/uc?export=view&id=13OvBhgBolmmAEzThxWHe46i04ZLmJMYy" width = "50%" align = "left" style="margin:13px 0px">
 <img src="https://drive.google.com/uc?export=view&id=1GRXflXZDHZZanCx1Xygll5JH-4yOGiey" width = "50%" align = "left" style="margin:13px 0px">
 <a href="http://nesec-org.github.io/" target = "blank"><img src="https://drive.google.com/uc?export=view&id=165HZfMx3eIoZS2W0ydpnVGEHkYgCZqsV" width = "75%" align = "right" style="margin:0px 10px"></a>
